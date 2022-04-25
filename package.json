@@ -1,0 +1,22 @@
+{
+  "name": "distractor-tractors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KacyHolm/Distractor-Tractors.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KacyHolm/Distractor-Tractors/issues"
+  },
+  "homepage": "https://github.com/KacyHolm/Distractor-Tractors#readme",
+  "dependencies": {
+    "eslint-config-airbnb": "^19.0.4"
+  }
+}
